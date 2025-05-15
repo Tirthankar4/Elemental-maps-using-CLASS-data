@@ -63,5 +63,5 @@ Map elemental heterogeneity to study lunar crust evolution and volcanic history 
 - API integration with ISSDC Pradan portal  
 - Augmented Reality visualization module  
 
-*Developed for Inter-IIT Tech Meet 13.0 (Team 62) in collaboration with ISRO*
+*Developed for Inter-IIT Tech Meet 13.0 by Team 62 representing IIT Roorkee*
 
