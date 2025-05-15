@@ -31,7 +31,7 @@ Map elemental heterogeneity to study lunar crust evolution and volcanic history 
 
 ## 📊 Key Outputs  
 - **Elemental Ratio Maps**  
-  ![Mg/Si Coverage Example][(https://via.placeholder.com/400x200?text=Mg%2FSi+Map)  ](https://drive.google.com/file/d/1tCE5y6DMkdBzSJCiCnDHJzPflYCuIkcm/view?usp=sharing)
+  ![Mg/Si Coverage Example][https://drive.google.com/uc?id=1tCE5y6DMkdBzSJCiCnDHJzPflYCuIkcm]
   *Sub-pixel resolution (4.125 km) maps for 7 elements across X/M/C-class flares*
 
 - **Interactive Visualization**  
